@@ -1,0 +1,6 @@
+PROJECT_ID = "your-project-id"
+TOPIC_ID = "my-topic"
+SUBSCRIPTION_ID = "my-sub"
+BUCKET_NAME = "my-streaming-bucket"
+BQ_DATASET = "my_dataset"
+BQ_TABLE = "streaming_table"
